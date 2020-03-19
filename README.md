@@ -1,2 +1,2 @@
 # UG_proj
-Quantify Effect of Natural Selection on Human Genome
+Quantify the Effect of Natural Selection on Human Genome
